@@ -1,0 +1,18 @@
+.modal {
+  color: #fff;
+  background-color: rgb(236, 110, 162);
+  padding: 20px;
+  border-radius: 10px;
+  position: absolute;
+  top: 17rem;
+}
+.cancel {
+  background-color: rgb(211, 211, 211);
+}
+.delete {
+  background-color: rgb(244, 223, 69);
+}
+
+.modal:hover {
+  background-color: rgb(236, 19, 110);
+}
