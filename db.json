@@ -1,0 +1,29 @@
+{
+  "todo": [
+    {
+      "text": "Go Shopping",
+      "done": true,
+      "id": 1
+    },
+    {
+      "text": "Making Dinner",
+      "done": false,
+      "id": 2
+    },
+    {
+      "text": "Buy Some Bread",
+      "done": true,
+      "id": 3
+    },
+    {
+      "text": "Exersice",
+      "done": false,
+      "id": 6
+    },
+    {
+      "text": "Play tennis",
+      "done": true,
+      "id": 7
+    }
+  ]
+}
